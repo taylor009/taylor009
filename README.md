@@ -9,6 +9,7 @@ I am a passionate technologist who loves any and all things software-related. I 
 - 🔭 I'm a self taught software engineer.
 - 📝 I've worked on DynamoDB at AWS.
 - 🌐 I started build my own open-source libraries and tools [NPM](https://www.npmjs.com/package/@nxtsoft-org/neo-nest-ogm).
+- 💡 Passionate about graph databases and particularly skilled in Neo4j, leveraging its capabilities for complex data relationships.
 
   
 ## My Articles
